@@ -1,4 +1,4 @@
-### 1. Learning tools change and improve over time, the learning process persists
+### 1. Learning tools change and improve over time; the learning process persists
 - AI tools can create an illusion of "learning"
 - using AI tools to skip a mental learning workout = using AI to bench press for you vs using it like a personal trainer
 - learning science suggests new neural pathways form through struggle, feedback, and synthesis
@@ -7,7 +7,7 @@
 - "The tools for learning are abundant. It’s the desire to learn that’s scarce." - [Naval](https://x.com/naval/status/912222091251871745)
 
 ### 2. Deep understanding of the fundamentals becomes increasingly valuable
-- foundation for thinking independently = deep understanding of the fundamentals in a given domain and across domains (commonality between leading investors, CEOs, elite performers)
+- the foundation for independent thinking = deep understanding of the fundamentals in a given domain and across domains (commonality between leading investors, CEOs, elite performers)
 - deep understanding of the fundamentals enables first principles thinking and innovation
 - do we simply regurgitate what we get from AI and social media, OR are we able to form independent and novel insights?
 
@@ -16,8 +16,8 @@
 - before work, AI generates a custom podcast or learning video on X topic you're struggling with at work 
 - AI generates a practice scenario on X and coaches on strengths and weaknesses
 - AI tests your knowledge via an interview/assessment on X topic
-- you add notes on X topic to a tool that feeds into the AI
-- you use the AI to search/synthesize insights across your learning notes for Y work situation
+- you add notes/reflections on X topic to a tool that feeds into the AI
+- you use the AI to search/synthesize insights across your learning notes/reflections for Y work situation
 - after work, AI generates a podcast, audiobook, or Kindle book to assist with Z personal life challenge
 
 --------------------------------------------------------------------------------------------
