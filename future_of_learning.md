@@ -12,7 +12,7 @@
 - deep understanding of the fundamentals enables first principles thinking and innovation
 - do we simply regurgitate what we get from AI and social media, OR are we able to form independent and novel insights?
 
-### 3. Learning becomes increasingly multi-modal and on-demand, like AI tools 
+#### 3. Learning becomes increasingly multi-modal and on-demand, like AI tools 
 - imagine AI has the context on what is happening in your personal and professional life 
 - before work, AI generates a custom podcast or learning video on X topic you're struggling with at work 
 - AI generates a practice scenario on X and coaches on strengths and weaknesses
